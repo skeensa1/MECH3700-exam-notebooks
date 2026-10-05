@@ -1,1 +1,7 @@
-
+{
+  "LiteBuildConfig": {
+    "contents": [
+      "content"
+    ]
+  }
+}
